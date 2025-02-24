@@ -4,6 +4,7 @@ name: Fetch Concert crolling and send Email
 on:
   schedule:
     - cron: "*/5 * * * *"  # 5분마다 실행
+  workflow_dispatch:  # 수동 실행 가능
   push:
     branches: 
       - main
@@ -27,6 +28,13 @@ jobs:
             pip install requests
             pip install selenium
             pip install pandas
+      
+      - name: 파이썬 실행
+        run: python concert_script.py
+        env: 
+          EMAil_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          YOUR_ADDRESS: ${{ secrets.YOUR_ADDRESS }}
               
       - name: 변경 사항 커밋 및 푸시
         run: |
@@ -34,3 +42,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add concert.csv
           git commit -m "Update weather data (auto)"
+          git push
