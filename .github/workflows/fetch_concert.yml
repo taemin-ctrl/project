@@ -41,5 +41,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
           git add concert.csv
-          git commit -m "Update weather data (auto)"
+          git commit -m "Update concert data (auto)"
           git push
