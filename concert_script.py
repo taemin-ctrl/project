@@ -191,5 +191,6 @@ try:
             time.sleep(1)
     
     print("웹 크롤링 완료")
+    driver.close()
 except Exception as e:
     print(f"예외 발생: {e}")
