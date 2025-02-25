@@ -219,8 +219,7 @@ msg.attach(MIMEText(body, 'plain'))
 # SMTP 서버와 연결하고 이메일 보내기
 try:
     # SMTP 서버에 연결
-    server = smtplib.SMTP(smtp_server, smtp_port)
-    server.starttls()  # TLS 암호화 사용
+    server = smtplib.SMTP_SSL(smtp_server, 465)  # SSL 암호화
     
     # 로그인
     server.login(sender_email, password)
