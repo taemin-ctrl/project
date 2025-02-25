@@ -45,20 +45,23 @@ with open("concert.json", "r", encoding="utf-8") as file:
     read_data = json.load(file)
 
 # 크롬 열기
-options = Options()
-options.add_argument('--headless')  # 헤드리스 모드
-options.add_argument('--no-sandbox')
-options.add_argument('--disable-dev-shm-usage')
+def start_driver():
+    options = Options()
+    options.add_argument('--headless')  # 헤드리스 모드
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    driver = wb.Chrome(options=options)
+    return driver
 
+driver = start_driver()  # 최초 드라이버 인스턴스 생성
 url = "https://ticket.interpark.com/webzine/paper/TPNoticeList.asp?tid1=in_scroll&tid2=ticketopen&tid3=board_main&tid4=board_main"
-driver = wb.Chrome(options=options)
 driver.get(url)
 
 # 대기 시간
 time.sleep(1)
 
 # iframe으로 전환 
-iframe = driver.find_element(By.ID, 'iFrmNotice')  # 어려웠던 점 잘 찾아보니 있어서 찾아봄
+iframe = driver.find_element(By.ID, 'iFrmNotice')
 driver.switch_to.frame(iframe)
 
 # 구분 및 첫번째 페이지 링크 가져오기
@@ -67,7 +70,7 @@ div = driver.find_elements(By.CLASS_NAME, "type")
 
 # 구분 리스트에 등록
 for i in div:
-    if div.index(i) !=0: 
+    if div.index(i) != 0: 
         div_list.append(i.text)
 
 # 대기 시간
@@ -84,86 +87,98 @@ driver.switch_to.default_content()
 
 # 모든 <a> 태그를 찾기
 while True:
-    
-    # 공연 이름, 등록일, 티켓 예매 날짜
-    concert_name = driver.find_elements(By.CSS_SELECTOR, "h3")
-    w_regist_date = driver.find_elements(By.CLASS_NAME, "date")
-    w_ticket_date = driver.find_elements(By.CLASS_NAME, "open")
-    
-     # 데이터 가공
-    concert_del = concert_name[0].text.replace("단독판매", "")
-    concert = concert_del.replace("상대우위","")
-    
-    ticket_date = w_ticket_date[0].text.split("\n")
-    ticket = ticket_date[1]
-    regist = w_regist_date[0].text[6:]
-    
-    # 링크 
-    search_box = driver.find_element(By.TAG_NAME, "input")
-    search_box.send_keys(concert)
-    search_box.send_keys(Keys.ENTER)
-    
-    time.sleep(2) # 페이지 로딩 대기
-
     try:
-    # 공연 링크 찾기
-        new_page = driver.find_element(By.CLASS_NAME, "TicketItem_goodsName__Ju76j")
-        new_page.click()
-    
-        # 새 창으로 전환
-        current_window = driver.current_window_handle  # 현재 창 핸들 저장
-        all_windows = driver.window_handles  # 모든 창의 핸들 리스트
-    
-        # 새 창으로 전환
-        for window in all_windows:
-            if window != current_window:  # 현재 창이 아닌 새 창으로 전환
-                driver.switch_to.window(window)
-                break
-    
-        # 새 창에서 링크 가져오기
-        link = driver.current_url
-    
-        # 새 창 닫기
-        driver.close()
-    
-        # 원래 창으로 돌아가기
-        driver.switch_to.window(current_window)
-    
-        # 대기 시간 및 이후 작업
-        time.sleep(1)
-    
-        driver.back()
+        # 공연 이름, 등록일, 티켓 예매 날짜
+        concert_name = driver.find_elements(By.CSS_SELECTOR, "h3")
+        w_regist_date = driver.find_elements(By.CLASS_NAME, "date")
+        w_ticket_date = driver.find_elements(By.CLASS_NAME, "open")
+        
+        # 데이터 가공
+        concert_del = concert_name[0].text.replace("단독판매", "")
+        concert = concert_del.replace("상대우위","")
+        
+        ticket_date = w_ticket_date[0].text.split("\n")
+        ticket = ticket_date[1]
+        regist = w_regist_date[0].text[6:]
+        
+        # 링크
+        search_box = driver.find_element(By.TAG_NAME, "input")
+        search_box.send_keys(concert)
+        search_box.send_keys(Keys.ENTER)
+        
+        time.sleep(2)  # 페이지 로딩 대기
+
+        try:
+            # 공연 링크 찾기
+            new_page = driver.find_element(By.CLASS_NAME, "TicketItem_goodsName__Ju76j")
+            new_page.click()
+        
+            # 새 창으로 전환
+            current_window = driver.current_window_handle  # 현재 창 핸들 저장
+            all_windows = driver.window_handles  # 모든 창의 핸들 리스트
+        
+            # 새 창으로 전환
+            for window in all_windows:
+                if window != current_window:  # 현재 창이 아닌 새 창으로 전환
+                    driver.switch_to.window(window)
+                    break
+        
+            # 새 창에서 링크 가져오기
+            link = driver.current_url
+        
+            # 새 창 닫기
+            driver.close()
+        
+            # 원래 창으로 돌아가기
+            driver.switch_to.window(current_window)
+        
+            # 대기 시간 및 이후 작업
+            time.sleep(1)
+        
+            driver.back()
+        
+        except Exception as e:
+            print(f"오류 발생 (새 창에서 링크 찾기): {e}")
+            time.sleep(1)
+            driver.back()
+            link = driver.current_url
+
+        # 페이지 처리 후, 다음 페이지로 이동
+        try:
+            next_pg = driver.find_element(By.CSS_SELECTOR, "li.next em > a")
+            next_pg.click()  # 다음 페이지로 이동
+        except Exception as e:
+            print(f"다음 페이지로 이동 중 오류 발생: {e}")
+            break  # 더 이상 페이지가 없다면 종료
+        
+        # 리스트 추가
+        name_exists = any(item['이름'] == concert for item in read_data)
+        
+        if not name_exists:
+            read_data.append({
+                "이름": concert, 
+                "구분": div_list[num], 
+                "예매날짜": format_date(ticket), 
+                "등록일": format_apply(regist), 
+                "checked": False
+            })
+            with open('concert.json', 'w', encoding='utf-8') as file:
+                json.dump(read_data, file, ensure_ascii=False, indent=4)
+            print(f"새로운 데이터가 추가되었습니다: {read_data}")
+        
+        # 대기 시간
+        time.sleep(2)
+        
+        num += 1
+        if num == 18:
+            break
 
     except Exception as e:
+        print(f"오류 발생 (전체 루프): {e}")
+        driver.quit()
+        driver = start_driver()  # 드라이버 재시작
+        driver.get(url)
         time.sleep(1)
-        driver.back()
-        link = driver.current_url
-    
-    next_pg = driver.find_element(By.CSS_SELECTOR, "li.next em > a")
-    
-    # 리스트 추가
-    name_exists = any(item['이름'] == concert for item in read_data)
-    
-    if not name_exists:
-    # 'a' 모드로 파일을 열고 데이터를 추가하기 전에 기존 데이터를 덧붙일 수 있도록 처리
-        read_data.append({"이름": concert, "구분": div_list[num], "예매날짜": format_date(ticket), "등록일": format_apply(regist), "checked" :False})
-        with open('concert.json', 'w', encoding='utf-8') as file:
-            json.dump(read_data, file, ensure_ascii=False, indent=4)
-        print(f"새로운 데이터가 추가되었습니다: {read_data}")
-    
-    
-    # 대기 시간
-    time.sleep(2)
-
-    # 다음 페이지 넝어가기
-    next_pg.click()
-
-    # while 빠져나오기
-    num +=1
-    if num == 18:
-        break
-
-# driver.close()
 
 # 구글 SMTP 서버 주소와 포트
 smtp_server = "smtp.gmail.com"
@@ -179,7 +194,7 @@ subject = "오늘의 콘서트 "
 
 # 이메일 본문에 json 파일 내용 넣기
 with open('concert.json', 'r', encoding='utf-8') as file:
-    data = json.load(file)  # 파일 객체에서 직접 JSON 데이터 읽기
+    data = json.load(file)
 
 body= "오늘 콘서트 행사는 \n"
 for e in data:
