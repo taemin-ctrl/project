@@ -190,7 +190,7 @@ print("웹 크롤링 완료")
 
 # 구글 SMTP 서버 주소와 포트
 smtp_server = "smtp.gmail.com"
-smtp_port = 587
+smtp_port = 465
 
 # 발신자 이메일 (Gmail)과 수신자 이메일 (네이버 메일)
 sender_email = os.getenv("EMAIL_ADDRESS")  # 구글 이메일
