@@ -72,7 +72,7 @@ div = driver.find_elements(By.CLASS_NAME, "type")
 for i in div:
     if div.index(i) != 0: 
         div_list.append(i.text)
-
+print("click")
 # 대기 시간
 time.sleep(1)
 
