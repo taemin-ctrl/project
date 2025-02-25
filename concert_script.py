@@ -185,7 +185,7 @@ try:
     
         except Exception as e:
             print(f"오류 발생 (전체 루프): {num+1}")
-            driver.quit()
+            driver.close()
             driver = start_driver()  # 드라이버 재시작
             driver.get(url)
             time.sleep(1)
