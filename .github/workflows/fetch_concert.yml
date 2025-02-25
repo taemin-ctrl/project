@@ -30,7 +30,7 @@ jobs:
       - name: 파이썬 실행
         run: python concert_script.py
         env: 
-          EMAIl_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           YOUR_ADDRESS: ${{ secrets.YOUR_ADDRESS }}
 
