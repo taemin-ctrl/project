@@ -9,6 +9,7 @@ try:
     import json
     import re
     from selenium.webdriver.chrome.options import Options
+    print("import 완료?", flush=True)
     
     # 날짜 포맷을 "2025년 3월 11일(화) 오후 6시"에서 "2025-03-11"로 변환하는 함수
     def format_date(date_string):
@@ -43,7 +44,7 @@ try:
     # 현재 디렉토리에서 concert.json 파일 경로를 동적으로 설정
     current_dir = os.path.dirname(os.path.abspath(__file__))  # 현재 파일의 절대 경로
     json_file_path = os.path.join(current_dir, 'static', 'concert.json')  # static 폴더 내의 concert.json 파일
-    
+    print(" 현재 디렉토리에서 concert.json 파일 경로를 동적으로 설정", flush=True)
     # json 파일 읽기
     with open(json_file_path, "r", encoding="utf-8") as file:
         read_data = json.load(file)
@@ -61,7 +62,8 @@ try:
     driver = start_driver()  # 최초 드라이버 인스턴스 생성
     url = "https://ticket.interpark.com/webzine/paper/TPNoticeList.asp?tid1=in_scroll&tid2=ticketopen&tid3=board_main&tid4=board_main"
     driver.get(url)
-    print("크롬 열기")
+    print("크롬 열기", flush=True)
+    
     # 대기 시간
     time.sleep(1)
     
