@@ -188,14 +188,14 @@ while True:
 
 print("웹 크롤링 완료")
 
-# 구글 SMTP 서버 주소와 포트
-smtp_server = "smtp.gmail.com"
-smtp_port = 465
+# 네이버 SMTP 서버 주소와 포트
+smtp_server = "smtp.naver.com"
+smtp_port = 465  # SSL 포트
 
-# 발신자 이메일 (Gmail)과 수신자 이메일 (네이버 메일)
-sender_email = os.getenv("EMAIL_ADDRESS")  # 구글 이메일
-receiver_email = os.getenv("YOUR_ADDRESS")  # 네이버 이메일
-password = os.getenv("EMAIL_PASSWORD")  # Gmail 2단계 인증을 위한 앱 비밀번호
+# 발신자 이메일 (네이버)과 수신자 이메일 (원하는 수신자 이메일)
+sender_email = os.getenv("EMAIL_ADDRESS")  # 네이버 이메일
+receiver_email = os.getenv("YOUR_ADDRESS")  # 수신자 이메일
+password = os.getenv("EMAIL_PASSWORD")  # 네이버 앱 비밀번호
 
 if sender_email:
     print("send")
@@ -203,6 +203,7 @@ if receiver_email:
     print("receive")
 if password:
     print("pw")
+
 # 이메일 제목과 내용 설정
 subject = "오늘의 콘서트 "
 
@@ -210,10 +211,10 @@ subject = "오늘의 콘서트 "
 with open('concert.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 print(data)
-body= "오늘 콘서트 행사는 \n"
+body = "오늘 콘서트 행사는 \n"
 for e in data:
     if e['등록일'] == today:
-        body += f"제목 : {e['이름']}\n 예매일자 : {e['예매날짜']}\n 링크 : {e['링크']}\n\n " 
+        body += f"제목 : {e['이름']}\n 예매일자 : {e['예매날짜']}\n 링크 : {e['링크']}\n\n "
 
 # MIME 객체로 이메일 구성
 msg = MIMEMultipart()
@@ -225,7 +226,7 @@ msg.attach(MIMEText(body, 'plain'))
 # SMTP 서버와 연결하고 이메일 보내기
 try:
     # SMTP 서버에 연결
-    server = smtplib.SMTP_SSL(smtp_server, 465)  # SSL 암호화
+    server = smtplib.SMTP_SSL(smtp_server, smtp_port)  # SSL 암호화
     
     # 로그인
     server.login(sender_email, password)
