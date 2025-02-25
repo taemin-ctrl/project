@@ -161,6 +161,7 @@ while True:
                 "구분": div_list[num], 
                 "예매날짜": format_date(ticket), 
                 "등록일": format_apply(regist), 
+                "링크": link,
                 "checked": False
             })
             with open('concert.json', 'w', encoding='utf-8') as file:
