@@ -198,5 +198,21 @@
         "등록일": "2025-02-25",
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54615&groupno=54615&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false
+    },
+    {
+        "이름": "CATCH THE YOUNG 부산 단독 콘서트：Blossom in Busan ",
+        "구분": "콘서트",
+        "예매날짜": "2025-02-28",
+        "등록일": "2025-02-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54614&groupno=54614&seq=0&KindOfGoods=TICKET",
+        "checked": false
+    },
+    {
+        "이름": "윤종신 전국 투어 콘서트 ‘그때’ - 수원 절대우위",
+        "구분": "콘서트",
+        "예매날짜": "2025-02-28",
+        "등록일": "2025-02-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54613&groupno=54613&seq=0&KindOfGoods=TICKET",
+        "checked": false
     }
 ]
