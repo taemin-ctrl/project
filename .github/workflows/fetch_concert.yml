@@ -1,4 +1,4 @@
-name: Fetch Concert Crawling and Send Email
+name: Fetch Concert Crawling
 
 # Controls when the workflow will run
 on:
@@ -21,15 +21,11 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
-      
+
       - name: 필요한 패키지 설치
         run: |
             pip install --no-cache-dir selenium
             pip install --no-cache-dir pandas
-
-      - name: 파이썬 실행
-        run: python concert_script.py
-        env: 
 
       - name: 변경 사항 커밋 및 푸시
         run: |
