@@ -3,7 +3,7 @@ name: Fetch Concert crolling and send Email
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정(00:00)에 실행
+    - cron: "*/5 * * * *"  # 매 5분마다 실행
   workflow_dispatch:  # 수동 실행 가능
   push:
     branches: 
