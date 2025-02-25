@@ -35,7 +35,7 @@ jobs:
         run: |
           echo "스크립트 실행 시작"
           set -x
-          python3 concert_script.py 2>&1 | tee error_log.txt || { echo "❌ 스크립트 실행 중 오류 발생"; exit 1; }
+          python3 test.py
 
 
       - name: 오류 로그 확인 (있다면 출력)
