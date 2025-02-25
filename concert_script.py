@@ -193,8 +193,8 @@ smtp_server = "smtp.gmail.com"
 smtp_port = 465
 
 # 발신자 이메일 (Gmail)과 수신자 이메일 (네이버 메일)
-sender_email = os.getenv("EMAIL_ADDRESS")  # 구글 이메일
-receiver_email = os.getenv("YOUR_ADDRESS")  # 네이버 이메일
+sender_email = "kimtaemin0106@gmail.com"  # 구글 이메일
+receiver_email = "ktm0106"  # 네이버 이메일
 password = os.getenv("EMAIL_PASSWORD")  # Gmail 2단계 인증을 위한 앱 비밀번호
 
 if sender_email:
