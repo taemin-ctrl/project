@@ -197,6 +197,12 @@ sender_email = os.getenv("EMAIL_ADDRESS")  # 구글 이메일
 receiver_email = os.getenv("YOUR_ADDRESS")  # 네이버 이메일
 password = os.getenv("EMAIL_PASSWORD")  # Gmail 2단계 인증을 위한 앱 비밀번호
 
+if sender_email:
+    print("send")
+if receiver_email:
+    print("receive")
+if password:
+    print("pw")
 # 이메일 제목과 내용 설정
 subject = "오늘의 콘서트 "
 
