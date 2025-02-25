@@ -1,0 +1,255 @@
+/* 전체 레이아웃 */
+.container {
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* 달력 스타일 */
+.calendar {
+    flex: 3;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* 달력 테이블 */
+.calendar-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.calendar-table th, 
+.calendar-table td {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+    height: 120px;
+    vertical-align: top;
+    position: relative;
+    font-size: 1rem;
+}
+
+.calendar-table td {
+    width: 120px;
+    min-width: 120px;
+    max-width: 120px;
+    overflow: hidden;
+    transition: background-color 0.3s ease;
+}
+
+.calendar-table td:hover {
+    background-color: #f1f1f1;
+}
+
+.date-number {
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+/* 이벤트 배지 스타일 */
+.event-badge {
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    margin: 4px 0;
+    display: inline-block;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+/* 색 바꾸면 js 30번째 줄 쪽 바꿔주기 */
+.event-badge[data-type="뮤지컬"] { background: #00796b; }
+.event-badge[data-type="콘서트"] { background: #0277bd; }
+.event-badge[data-type="연극"] { background: #d81b60; }
+.event-badge[data-type="클래식/무용"] { background: #dfa42f; }
+.event-badge[data-type="아동/가족"] { background: #8e24aa; }
+.event-badge[data-type="스포츠"] { background: #ff5722; }
+.event-badge[data-type="레저"] { background: #5e35b1; }
+.event-badge[data-type="전시/행사"] { background: #283593; }
+
+/* 사이드바 스타일 */
+.sidebar {
+    flex: 1;
+    background: #f4f6f9;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* 사이드바 이벤트 아이템 */
+.event-item {
+    margin: 15px 0;
+    padding: 15px;
+    background: #ffffff;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+#listname {
+    background: #ffffff;
+}
+
+.event-item:hover {
+    background-color: #f1f1f1;
+}
+
+/* 버튼 스타일 */
+button {
+    background: linear-gradient(135deg, #2196f3, #21cbf3);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #21cbf3, #2196f3);
+}
+
+/* 주말 셀 강조 */
+.sunday {
+    background-color: #ffebee;
+    font-weight: bold;
+}
+
+.saturday {
+    background-color: #e2e7fa;
+    font-weight: bold;
+}
+
+/* 입력 필드 */
+input[type="text"],
+input[type="date"] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="date"]:focus {
+    border-color: #2196f3;
+}
+
+/* 페이지네이션 스타일 */
+#pagination {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+#pagination button {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    color: #2196f3;
+    cursor: pointer;
+    padding: 8px 16px;
+    transition: color 0.3s ease;
+}
+
+#pagination button:hover {
+    color: #0d47a1;
+}
+
+/* 월 선택기 */
+#monthSelector {
+    display: inline-block;
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#monthSelector select {
+    margin: 12px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+}
+
+#currentMonth {
+    font-size: 32px;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+}
+
+/* 모달 팝업 배경 */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* 모달 콘텐츠 박스 */
+.modal-content {
+    background-color: white;
+    margin: 15% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    position: relative;
+}
+
+/* 닫기 버튼 스타일 */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #000;
+}
+
+.close-btn:hover {
+    color: #f44336;
+}
+
+/* 이전/다음 달 날짜 스타일 */
+.calendar-day.other-month .date-number {
+    color: #999;
+    opacity: 0.4;
+}
+
+.calendar-day.other-month.weekend {
+    background-color: #ffebee;
+    opacity: 0.4;
+}

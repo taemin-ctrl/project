@@ -1,0 +1,91 @@
+<!DOCTYPE html> 
+<html lang="ko"> 
+    <head>
+        <meta charset="UTF-8"> 
+        <title>공연 예매일 달력표시</title> 
+        <link rel="stylesheet" href="../static/css/style.css">
+    </head>
+    <body> 
+        <div class="container">
+            <div class="calendar">
+                <div class="calendar-header">
+                    <button onclick="changeMonth(-1)">◀</button>
+                    <button onclick="changeMonth(1)">▶</button>
+                    <div id="currentMonth" onclick="toggleMonthSelector()" style="cursor: pointer;"></div>
+                    <div id="monthSelector" style="display: none;">
+                        <select id="yearSelect" onchange="updateCalendar()">
+                            <!-- 연도 옵션은 JavaScript로 동적으로 추가 -->
+                        </select>
+                        <select id="monthSelect" onchange="updateCalendar()">
+                            <!-- 월 옵션도 JavaScript로 동적으로 추가 -->
+                        </select>
+                    </div>
+                </div>
+                
+                <table class="calendar-table" id="calendarTable">
+                    <thead>
+                        <tr>
+                            <th>일</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th>토</th>
+                        </tr>
+                    </thead>
+                    <tbody id="calendarBody"></tbody>
+                </table>
+            </div>
+    
+            <div class="sidebar">
+                <div>
+                    
+
+                    <h4>필터</h4>
+                    <label for="filterApply">등록일:</label>
+                    <input type="date" id="filterApply" onchange="applyFilters()">
+
+                    <label for="filterDate">예매날짜:</label>
+                    <input type="date" id="filterDate" onchange="applyFilters()">
+                    
+                    <label for="filterType">공연 종류:</label>
+                    <select id="filterType" onchange="applyFilters()">
+                        <option value="">전체</option>
+                        <option value="뮤지컬">뮤지컬</option>
+                        <option value="콘서트">콘서트</option>
+                        <option value="연극">연극</option>
+                        <option value="클래식/무용">클래식/무용</option>
+                        <option value="아동/가족">아동/가족</option>
+                        <option value="스포츠">스포츠</option>
+                        <option value="레저">레저</option>
+                        <option value="전시/행사">전시/행사</option>
+                    </select>
+                    <br></br>
+                    <div align="center">
+                        <button id="selectAll" onclick="toggleSelectAll()">전체 선택</button>
+                    </div>
+                </div>
+
+                <h3 align="center" id="listname">공연 목록 (최대 20개)</h3>
+                
+                <div class="event-list" id="eventList">
+                </div>
+                <div id="pagination" style="margin-top: 20px;"></div>
+                
+                <div align="center" style="margin-top: 20px;">
+                    <button onclick="saveCheckState()">체크 상태 저장</button>
+                    <button onclick="loadCheckState()">저장된 목록 불러오기</button>
+                </div>
+            </div>
+            <!-- 모달 팝업 구조 -->
+            <div id="eventDetailPopup" class="modal" style="display: none;">
+                <div class="modal-content">
+                    <span onclick="closePopup()" class="close-btn">&times;</span>
+                    <h3 id="popupEventName"></h3>
+                    <p><strong>공연 종류:</strong> <span id="popupEventType"></span></p>
+                    <p><strong>예매 날짜:</strong> <span id="popupEventDate"></span></p>
+                    <p><strong>등록일:</strong> <span id="popupEventApply"></span></p>
+                    <p><strong>링크:</strong> <span id="popupEventLink"></span></p>
+                </div>
+            </div>
+        </div>
+
+    <script src="../static/js/script.js"></script>
+
+    </body>
+</html>
