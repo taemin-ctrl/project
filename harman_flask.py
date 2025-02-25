@@ -5,6 +5,24 @@ import logging
 from flask import Flask, render_template, request, jsonify
 import json
 import os
+import requests
+
+# GitHub raw URL
+url = "https://raw.githubusercontent.com/taemin-ctrl/project/main/static/concert.json"
+
+# 로컬에 저장할 파일 경로
+json_file_path = '../static/concert.json'
+
+# 파일 다운로드
+response = requests.get(url)
+
+# 요청이 성공한 경우 파일 저장
+if response.status_code == 200:
+    with open(json_file_path, 'wb') as file:
+        file.write(response.content)
+    print(f"파일이 {json_file_path}에 성공적으로 저장되었습니다.")
+else:
+    print(f"파일을 다운로드하는데 실패했습니다. 상태 코드: {response.status_code}")
 
 # Flask 로그 설정
 logging.basicConfig(level=logging.DEBUG)  # 모든 로그 레벨을 디버그로 설정
@@ -12,7 +30,7 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
-json_file_path = '../static/concert.json'
+
 
 
 @app.route("/")
