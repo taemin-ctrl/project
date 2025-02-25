@@ -39,8 +39,12 @@ div_list = []
 # 임시 카운트 변수
 num = 0
 
+# 현재 디렉토리에서 concert.json 파일 경로를 동적으로 설정
+current_dir = os.path.dirname(os.path.abspath(__file__))  # 현재 파일의 절대 경로
+json_file_path = os.path.join(current_dir, 'static', 'concert.json')  # static 폴더 내의 concert.json 파일
+
 # json 파일 읽기
-with open("concert.json", "r", encoding="utf-8") as file:
+with open(json_file_path, "r", encoding="utf-8") as file:
     read_data = json.load(file)
 print("json 파일 완료")
 
@@ -165,7 +169,7 @@ while True:
                 "링크": link,
                 "checked": False
             })
-            with open('concert.json', 'w', encoding='utf-8') as file:
+            with open(json_file_path, 'w', encoding='utf-8') as file:
                 json.dump(read_data, file, ensure_ascii=False, indent=4)
             print(f"새로운 데이터가 추가되었습니다: {read_data}")
         
