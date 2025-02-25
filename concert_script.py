@@ -43,6 +43,7 @@ num = 0
 # json 파일 읽기
 with open("concert.json", "r", encoding="utf-8") as file:
     read_data = json.load(file)
+print("json 파일 완료")
 
 # 크롬 열기
 def start_driver():
@@ -56,7 +57,7 @@ def start_driver():
 driver = start_driver()  # 최초 드라이버 인스턴스 생성
 url = "https://ticket.interpark.com/webzine/paper/TPNoticeList.asp?tid1=in_scroll&tid2=ticketopen&tid3=board_main&tid4=board_main"
 driver.get(url)
-
+print("크롬 열기")
 # 대기 시간
 time.sleep(1)
 
@@ -85,7 +86,7 @@ else:
 
 url = driver.current_url
 driver.switch_to.default_content()
-
+print("페이지 들어가기")
 # 모든 <a> 태그를 찾기
 while True:
     print(num,"작업중")
