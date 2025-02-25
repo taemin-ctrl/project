@@ -11,7 +11,7 @@ import requests
 url = "https://raw.githubusercontent.com/taemin-ctrl/project/main/static/concert.json"
 
 # 로컬에 저장할 파일 경로
-json_file_path = '../static/concert.json'
+json_file_path = 'static/concert.json'
 
 # 파일 다운로드
 response = requests.get(url)
