@@ -29,10 +29,34 @@ jobs:
 
       - name: access to secrets
         run: |
+          # 시크릿 값을 환경 변수로 파일에 저장
           echo "EMAIL_ADDRESS=$EMAIL_ADDRESS" >> .env
           echo "EMAIL_PASSWORD=$EMAIL_PASSWORD" >> .env
           echo "YOUR_ADDRESS=$YOUR_ADDRESS" >> .env
-              
+
+      - name: 시크릿 값 로깅 (디버깅)
+        run: |
+          echo "Checking if secrets are loaded..."
+          if [ -z "$EMAIL_ADDRESS" ]; then
+            echo "EMAIL_ADDRESS is not set"
+          else
+            echo "EMAIL_ADDRESS is loaded"
+          fi
+          if [ -z "$EMAIL_PASSWORD" ]; then
+            echo "EMAIL_PASSWORD is not set"
+          else
+            echo "EMAIL_PASSWORD is loaded"
+          fi
+          if [ -z "$YOUR_ADDRESS" ]; then
+            echo "YOUR_ADDRESS is not set"
+          else
+            echo "YOUR_ADDRESS is loaded"
+          fi
+        env: 
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          YOUR_ADDRESS: ${{ secrets.YOUR_ADDRESS }}
+
       - name: 파이썬 실행
         run: python concert_script.py
         env: 
