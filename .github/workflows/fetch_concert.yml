@@ -26,7 +26,13 @@ jobs:
         run: |
             pip install --no-cache-dir selenium
             pip install --no-cache-dir pandas
-      
+
+      - name: access to secrets
+        run: |
+          echo "EMAIL_ADDRESS=$EMAIL_ADDRESS" >> .env
+          echo "EMAIL_PASSWORD=$EMAIL_PASSWORD" >> .env
+          echo "YOUR_ADDRESS=$YOUR_ADDRESS" >> .env
+              
       - name: 파이썬 실행
         run: python concert_script.py
         env: 
