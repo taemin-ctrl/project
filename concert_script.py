@@ -79,7 +79,7 @@ try:
     for i in div:
         if div.index(i) != 0: 
             div_list.append(i.text)
-    print("click")
+    print("click", flush=True)
     # 대기 시간
     time.sleep(1)
     
@@ -92,10 +92,10 @@ try:
     
     url = driver.current_url
     driver.switch_to.default_content()
-    print("페이지 들어가기")
+    print("페이지 들어가기", flush=True)
     # 모든 <a> 태그를 찾기
     while True:
-        print(num,"작업중")
+        print(num,"작업중", flush=True)
         try:
             # 공연 이름, 등록일, 티켓 예매 날짜
             concert_name = driver.find_elements(By.CSS_SELECTOR, "h3")
