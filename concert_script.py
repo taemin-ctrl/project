@@ -83,6 +83,7 @@ else:
     first_pg[1].click()
     div_list.remove("HOT")
 
+url = driver.current_url
 driver.switch_to.default_content()
 
 # 모든 <a> 태그를 찾기
@@ -138,7 +139,7 @@ while True:
             driver.back()
         
         except Exception as e:
-            print(f"오류 발생 (새 창에서 링크 찾기): {e}")
+            print(f"새 창에서 링크 찾기: {num+1}")
             time.sleep(1)
             driver.back()
             link = driver.current_url
@@ -174,7 +175,7 @@ while True:
             break
 
     except Exception as e:
-        print(f"오류 발생 (전체 루프): {e}")
+        print(f"오류 발생 (전체 루프): {num+1}")
         driver.quit()
         driver = start_driver()  # 드라이버 재시작
         driver.get(url)
