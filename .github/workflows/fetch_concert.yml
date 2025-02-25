@@ -31,10 +31,13 @@ jobs:
       - name: 디버깅 - 설치된 패키지 확인
         run: pip list
 
-      - name: concert_script.py 실행
+      - name: concert_script.py 실행 (오류 출력)
         run: |
           set -x
-          python concert_script.py || echo "스크립트 실행 중 오류 발생"
+          python concert_script.py || { echo "❌ 스크립트 실행 중 오류 발생"; exit 1; }
+
+      - name: 오류 로그 확인 (있다면 출력)
+        run: cat error_log.txt || echo "오류 로그 없음"
 
       - name: 변경 사항 커밋 및 푸시
         run: |
@@ -46,4 +49,3 @@ jobs:
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
