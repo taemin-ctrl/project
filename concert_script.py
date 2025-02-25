@@ -88,6 +88,7 @@ driver.switch_to.default_content()
 
 # 모든 <a> 태그를 찾기
 while True:
+    print(num,"작업중")
     try:
         # 공연 이름, 등록일, 티켓 예매 날짜
         concert_name = driver.find_elements(By.CSS_SELECTOR, "h3")
