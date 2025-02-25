@@ -8,6 +8,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import re
+from selenium.webdriver.chrome.options import Options
 
 # 날짜 포맷을 "2025년 3월 11일(화) 오후 6시"에서 "2025-03-11"로 변환하는 함수
 def format_date(date_string):
@@ -44,8 +45,13 @@ with open("concert.json", "r", encoding="utf-8") as file:
     read_data = json.load(file)
 
 # 크롬 열기
+options = Options()
+options.add_argument('--headless')  # 헤드리스 모드
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+
 url = "https://ticket.interpark.com/webzine/paper/TPNoticeList.asp?tid1=in_scroll&tid2=ticketopen&tid3=board_main&tid4=board_main"
-driver = wb.Chrome()
+driver = wb.Chrome(options=options)
 driver.get(url)
 
 # 대기 시간
