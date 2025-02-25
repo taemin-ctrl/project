@@ -1,4 +1,4 @@
-print("시작")
+print("시작", flush=True)
 try:
     import os
     from selenium import webdriver as wb
