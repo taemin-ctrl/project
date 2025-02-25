@@ -162,7 +162,7 @@ while True:
                 "예매날짜": format_date(ticket), 
                 "등록일": format_apply(regist), 
                 "링크": link,
-                "checked": false
+                "checked": False
             })
             with open('concert.json', 'w', encoding='utf-8') as file:
                 json.dump(read_data, file, ensure_ascii=False, indent=4)
