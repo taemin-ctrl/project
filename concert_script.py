@@ -181,6 +181,8 @@ while True:
         driver.get(url)
         time.sleep(1)
 
+print("웹 크롤링 완료")
+
 # 구글 SMTP 서버 주소와 포트
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
@@ -196,7 +198,7 @@ subject = "오늘의 콘서트 "
 # 이메일 본문에 json 파일 내용 넣기
 with open('concert.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
-
+print(data)
 body= "오늘 콘서트 행사는 \n"
 for e in data:
     if e['등록일'] == today:
