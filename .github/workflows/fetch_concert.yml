@@ -26,6 +26,7 @@ jobs:
         run: |
             pip install --no-cache-dir selenium
             pip install --no-cache-dir pandas
+            pip install --no-cache-dir dotenv
 
       - name: access to secrets
         run: |
