@@ -313,5 +313,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54625&groupno=54625&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "JENNIE 'The Ruby Experience' ",
+        "구분": "콘서트",
+        "예매날짜": "2025-02-28",
+        "등록일": "2025-02-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54646&groupno=54646&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-창원(진해)",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-02-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54645&groupno=54645&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뷰티풀 민트 라이프 2025",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-05",
+        "등록일": "2025-02-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54644&groupno=54644&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "CAN'T BE BLUE 단독콘서트 'Drowning'",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54643&groupno=54643&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
