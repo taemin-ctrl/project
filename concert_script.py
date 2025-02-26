@@ -9,6 +9,7 @@ try:
     import json
     import re
     from selenium.webdriver.chrome.options import Options
+    import traceback
     print("import 완료?", flush=True)
     
     # 날짜 포맷을 "2025년 3월 11일(화) 오후 6시"에서 "2025-03-11"로 변환하는 함수
@@ -159,6 +160,7 @@ try:
     
         except Exception as e:
             print(f"오류 발생 (다시 실행 중): {e}")
+            traceback.print_exc()  # 오류의 트레이스백을 출력
             driver.close()
             driver = start_driver()  # 드라이버 재시작
             driver.get(url)
