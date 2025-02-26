@@ -92,6 +92,7 @@ try:
     
     url = driver.current_url
     driver.switch_to.default_content()
+    time.sleep(2)
     print("페이지 들어가기", flush=True)
     # 모든 <a> 태그를 찾기
     while True:
@@ -110,7 +111,7 @@ try:
             ticket = ticket_date[1]
             regist = w_regist_date[0].text[6:]
             
-            time.sleep(1)  # 페이지 로딩 대기
+            time.sleep(3)  # 페이지 로딩 대기
     
             try:
                 # class가 'btn'인 <a> 태그 찾기
@@ -123,7 +124,7 @@ try:
                 print(f"새 창에서 링크 찾기: {num+1}")
                 link = driver.current_url
             
-            time.sleep(1)
+            time.sleep(3)
             
             # 페이지 처리 후, 다음 페이지로 이동
             try:
