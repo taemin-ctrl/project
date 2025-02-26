@@ -110,12 +110,7 @@ try:
             ticket = ticket_date[1]
             regist = w_regist_date[0].text[6:]
             
-            # 링크
-            search_box = driver.find_element(By.TAG_NAME, "input")
-            search_box.send_keys(concert)
-            search_box.send_keys(Keys.ENTER)
-            
-            time.sleep(2)  # 페이지 로딩 대기
+            time.sleep(1)  # 페이지 로딩 대기
     
             try:
                 # class가 'btn'인 <a> 태그 찾기
