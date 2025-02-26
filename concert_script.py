@@ -120,6 +120,10 @@ try:
 
                 # href 속성 가져오기
                 link = a_tag.get_attribute('href')
+
+                if not link:
+                    print("href 속성이 없음. 현재 페이지 URL 사용")
+                    link = driver.current_url
             
             except Exception as e:
                 print(f"새 창에서 링크 찾기: {num+1}")
