@@ -50,7 +50,7 @@ try:
     with open(json_file_path, "r", encoding="utf-8") as file:
         read_data = json.load(file)
     print("json 파일 완료")
-    
+    print(read_data['이름름'])
     # 크롬 열기
     def start_driver():
         options = Options()
