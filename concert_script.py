@@ -50,7 +50,7 @@ try:
     with open(json_file_path, "r", encoding="utf-8") as file:
         read_data = json.load(file)
     print("json 파일 완료")
-    print(read_data[0]['이름'])
+
     # 크롬 열기
     def start_driver():
         options = Options()
@@ -136,7 +136,7 @@ try:
                 break  # 더 이상 페이지가 없다면 종료
             
             # 리스트 추가
-            name_exists = any(item['이름'] == concert for item in read_data)
+            name_exists = any(item.get('이름') == concert for item in read_data)
             
             if not name_exists:
                 read_data.append({
