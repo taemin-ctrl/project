@@ -145,7 +145,8 @@ try:
                     "예매날짜": format_date(ticket), 
                     "등록일": format_apply(regist), 
                     "링크": link,
-                    "checked": False
+                    "checked": False,
+                    "active": False
                 })
                 with open(json_file_path, 'w', encoding='utf-8') as file:
                     json.dump(read_data, file, ensure_ascii=False, indent=4)
