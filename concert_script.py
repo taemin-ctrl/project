@@ -157,9 +157,7 @@ try:
                 break
     
         except Exception as e:
-            print(f"오류 발생 (다시 실행 중): {num+1}")
-            # 스크린샷 찍기
-            driver.save_screenshot('screenshot.png')
+            print(f"오류 발생 (다시 실행 중): {e}")
             driver.close()
             driver = start_driver()  # 드라이버 재시작
             driver.get(url)
