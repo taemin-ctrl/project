@@ -118,40 +118,18 @@ try:
             time.sleep(2)  # 페이지 로딩 대기
     
             try:
-                # 공연 링크 찾기
-                new_page = driver.find_element(By.CLASS_NAME, "TicketItem_goodsName__Ju76j")
-                new_page.click()
-            
-                # 새 창으로 전환
-                current_window = driver.current_window_handle  # 현재 창 핸들 저장
-                all_windows = driver.window_handles  # 모든 창의 핸들 리스트
-            
-                # 새 창으로 전환
-                for window in all_windows:
-                    if window != current_window:  # 현재 창이 아닌 새 창으로 전환
-                        driver.switch_to.window(window)
-                        break
-            
-                # 새 창에서 링크 가져오기
-                link = driver.current_url
-            
-                # 새 창 닫기
-                driver.close()
-            
-                # 원래 창으로 돌아가기
-                driver.switch_to.window(current_window)
-            
-                # 대기 시간 및 이후 작업
-                time.sleep(1)
-            
-                driver.back()
+                # class가 'btn'인 <a> 태그 찾기
+                a_tag = driver.find_element(By.CLASS_NAME, 'btn')
+
+                # href 속성 가져오기
+                link = a_tag.get_attribute('href')
             
             except Exception as e:
                 print(f"새 창에서 링크 찾기: {num+1}")
-                time.sleep(1)
-                driver.back()
                 link = driver.current_url
-    
+            
+            time.sleep(1)
+            
             # 페이지 처리 후, 다음 페이지로 이동
             try:
                 next_pg = driver.find_element(By.CSS_SELECTOR, "li.next em > a")
