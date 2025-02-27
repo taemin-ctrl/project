@@ -412,5 +412,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54654&groupno=54654&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈도리안 그레이〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54655&groupno=54655&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
