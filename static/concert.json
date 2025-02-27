@@ -349,5 +349,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54643&groupno=54643&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "창작가무극 〈윤동주, 달을 쏘다.〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54648&groupno=54648&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 〈더 : 매직서커스〉 - 용인",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54647&groupno=54647&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
