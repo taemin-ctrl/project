@@ -367,5 +367,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54647&groupno=54647&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈JUMP 점프〉 - 고양",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54652&groupno=54652&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족매직쇼 〈구구쌤의 매직쑈라구〉 - 고양",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54651&groupno=54651&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "더 베터하프 〈까마귀 클럽〉",
+        "구분": "연극",
+        "예매날짜": "2025-02-28",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54650&groupno=54650&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "김창완밴드 콘서트 - 수원",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54649&groupno=54649&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
