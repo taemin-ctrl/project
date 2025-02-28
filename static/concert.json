@@ -475,5 +475,50 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54658&groupno=54658&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "히사이시 조 영화음악 콘서트 2025_서울 앙코르 티켓오픈 안내",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-05",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54666&groupno=54666&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 울산",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-05",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54665&groupno=54665&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 천안",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-05",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54664&groupno=54664&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "RETRO&NEWTRO MUSIC 〈최재훈 x 잠골버스〉 #1 성남",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54663&groupno=54663&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "핑거스타일 코리아 스페셜 콘서트",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54662&groupno=54662&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
