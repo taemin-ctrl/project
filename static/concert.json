@@ -520,5 +520,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54662&groupno=54662&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈마하랑 떠나요 - 수도SONG 세계여행〉 - 고양",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54668&groupno=54668&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산",
+        "구분": "전시/행사",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-02-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54667&groupno=54667&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "서울스프링페스타 WONDER SHOW",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-04",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54661&groupno=54661&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
