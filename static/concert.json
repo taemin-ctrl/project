@@ -619,5 +619,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54669&groupno=54669&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈장수탕 선녀님〉 - 서울숲(3월)",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54676&groupno=54676&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 LE SSERAFIM TOUR 'EASY CRAZY HOT' IN INCHEON 티켓오픈 안내",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54674&groupno=54674&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
