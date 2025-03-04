@@ -691,5 +691,95 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54674&groupno=54674&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "[2025 서울연극창작센터 개관 페스티벌] 맹 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54694&groupno=54694&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 앤서니브라운 가족뮤지컬〈우리가족〉-울산",
+        "구분": "연극",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-02-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54693&groupno=54693&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 라이브가족뮤지컬 〈인어공주〉 - 광주",
+        "구분": "연극",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54692&groupno=54692&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 대전",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54691&groupno=54691&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "[2025 서울연극창작센터 개관 페스티벌] 이것은 실존과 생존과 이기에 대한 이야기 ",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54690&groupno=54690&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 라이브가족뮤지컬 〈라푼젤〉 - 대전",
+        "구분": "연극",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54689&groupno=54689&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤직드라마 〈불편한 편의점〉 - 제주",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54686&groupno=54686&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 천안",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54685&groupno=54685&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 젤리피쉬",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-10",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54684&groupno=54684&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈뚜식이 - 뚜식이라서 다행이야!〉 부산",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-06",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54683&groupno=54683&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
