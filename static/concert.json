@@ -808,5 +808,68 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54702&groupno=54702&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "4D공포연극 〈스위치〉 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54703&groupno=54703&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈원스〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54701&groupno=54701&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈매디슨 카운티의 다리〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54700&groupno=54700&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "최현우 19+I - 성남",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54699&groupno=54699&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "이승환 35주년 콘서트 〈HEAVEN〉 - 광주",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54697&groupno=54697&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "지브리 OST 콘서트 : 디 오케스트라 - 부천",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-05",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54696&groupno=54696&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "그리스 로마 신화, 클래식을 만나다",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-04",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54695&groupno=54695&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
