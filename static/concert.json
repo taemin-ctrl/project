@@ -1096,5 +1096,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54725&groupno=54725&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 사랑해 엄마 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-05",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54731&groupno=54731&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 김창옥 토크콘서트 시즌5 - 여수",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-10",
+        "등록일": "2025-03-05",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54730&groupno=54730&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
