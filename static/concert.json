@@ -1150,5 +1150,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54728&groupno=54728&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 폴포츠 내한공연 : Prime Time - 함안",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-10",
+        "등록일": "2025-03-06",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54736&groupno=54736&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
