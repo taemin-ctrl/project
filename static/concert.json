@@ -1204,5 +1204,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54743&groupno=54743&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 최고다 호기심딱지 시즌3〈호빵이,레벨업 대작전〉 - 전주",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-10",
+        "등록일": "2025-03-06",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54742&groupno=54742&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 최고다 호기심딱지 시즌3〈호빵이,레벨업 대작전〉 - 대전",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-10",
+        "등록일": "2025-03-06",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54741&groupno=54741&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
