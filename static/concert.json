@@ -1186,5 +1186,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54738&groupno=54738&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 JOYURI FAN-CON ‘Episode 25’ ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-06",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54740&groupno=54740&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
