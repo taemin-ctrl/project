@@ -1195,5 +1195,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54740&groupno=54740&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "[ 2024-25 Theatre 이문세 ] - 서울",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-06",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54743&groupno=54743&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
