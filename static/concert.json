@@ -1429,5 +1429,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54770&groupno=54770&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "주현미 데뷔 40주년 콘서트 〈The Queen〉 - 광주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54773&groupno=54773&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "김정민 전국투어 콘서트 : LIVE STAR - 서울",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54772&groupno=54772&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
