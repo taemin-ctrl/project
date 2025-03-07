@@ -1384,5 +1384,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54761&groupno=54761&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현〉",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54768&groupno=54768&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 -제주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54767&groupno=54767&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
