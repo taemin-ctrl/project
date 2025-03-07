@@ -1411,5 +1411,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54769&groupno=54769&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 변진섭 전국투어 콘서트 : 변천사 시즌 2 - 대구",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54771&groupno=54771&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-07",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54770&groupno=54770&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
