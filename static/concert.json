@@ -1663,5 +1663,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54782&groupno=54782&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ - 서울앵콜",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54800&groupno=54800&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
