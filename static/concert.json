@@ -1447,5 +1447,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54772&groupno=54772&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈라파치니의 정원〉절대우위",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54779&groupno=54779&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "Cotton Project III.",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54776&groupno=54776&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
