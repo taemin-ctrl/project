@@ -1465,5 +1465,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54776&groupno=54776&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 〈행운을 파는 상점, 굿럭〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-07",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54780&groupno=54780&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 서울파크뮤직페스티벌",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54778&groupno=54778&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "프리다 칼로, 자클린 뒤 프레를 만나다",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54777&groupno=54777&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
