@@ -1681,5 +1681,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54803&groupno=54803&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "82 NIGHT LIVE vol.1 (with Heymen)",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54802&groupno=54802&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "타카치 콰르텟 with 박혜상",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54801&groupno=54801&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
