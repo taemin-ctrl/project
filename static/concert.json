@@ -1699,5 +1699,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54801&groupno=54801&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "국립합창단 제204회 정기연주회 낭만주의 거장의 합창음악Ⅳ 〈미사 솔렘니스〉",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54806&groupno=54806&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "국립합창단 제203회 정기연주회 낭만주의 거장의 합창음악 Ⅲ 〈스타바트 마테르〉",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54805&groupno=54805&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "국립합창단 제201회 정기연주회 낭만주의 거장의 합창음악Ⅰ 〈테 데움〉",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54804&groupno=54804&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
