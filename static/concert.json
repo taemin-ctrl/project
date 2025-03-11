@@ -1780,5 +1780,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54809&groupno=54809&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "설렘유발 계약동거 〈사빠디〉 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54819&groupno=54819&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 천안",
+        "구분": "연극",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54817&groupno=54817&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 고양",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54816&groupno=54816&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "획의 간극",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54815&groupno=54815&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
