@@ -1726,5 +1726,59 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54804&groupno=54804&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 예술의전당 신작 오페라 〈The Rising World: 물의 정령〉",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-12",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54814&groupno=54814&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "대학로 연극 〈 급식왕 - 급식이사라졌다 〉",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-10",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54813&groupno=54813&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "김정민 전국투어 콘서트 : LIVE STAR - 장유",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54812&groupno=54812&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 폴포츠 내한공연 : Prime Time - 군산",
+        "구분": "사이트공지",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54811&groupno=54811&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "좀비연극 오마이갓",
+        "구분": "연극",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54810&groupno=54810&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 핫식스",
+        "구분": "연극",
+        "예매날짜": "2025-03-11",
+        "등록일": "2025-03-11",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54809&groupno=54809&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
