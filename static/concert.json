@@ -2014,5 +2014,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54826&groupno=54826&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 신현준&정준호 1st Fanmeeting 〈투핫!~TWO HOT!〉 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54842&groupno=54842&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 부천",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54841&groupno=54841&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 인천",
+        "구분": "연극",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54840&groupno=54840&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
