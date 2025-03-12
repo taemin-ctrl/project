@@ -1906,5 +1906,50 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54825&groupno=54825&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "≪봉제인간 : 분노의 재봉틀 (Sewing Machine of Wrath)≫ ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54833&groupno=54833&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "더 매직스타 팬미팅 〈THE NEW CHAPTER〉",
+        "구분": "콘서트",
+        "예매날짜": null,
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54832&groupno=54832&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "디 오리지널 시리즈 2025 베토벤 페노메논 with 임현정",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54831&groupno=54831&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "리사 오노 내한공연 2025",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54830&groupno=54830&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "조항조 전국투어 콘서트 : 생각 - 성남",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54829&groupno=54829&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
