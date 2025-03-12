@@ -1870,5 +1870,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54823&groupno=54823&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 창원",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54828&groupno=54828&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 대구 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54827&groupno=54827&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 부산",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54826&groupno=54826&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈이상한 과자가게 전천당 4 - 정체불명의 손님〉 - 인천",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-18",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54825&groupno=54825&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
