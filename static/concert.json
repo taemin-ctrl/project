@@ -1969,5 +1969,50 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54835&groupno=54835&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "［서울］뮤지컬 번개맨 시즌2 - 여름맞이 특별공연 - 송파",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54839&groupno=54839&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 〈카포네 트릴로지〉 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54838&groupno=54838&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "[경기광주] 뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54837&groupno=54837&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "근현대인물열전 Ⅰ 연극 ［사형수 김대중］ - 안양",
+        "구분": "연극",
+        "예매날짜": "2025-03-13",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54836&groupno=54836&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 부산 ",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54826&groupno=54826&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
