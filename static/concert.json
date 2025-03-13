@@ -2050,5 +2050,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54843&groupno=54843&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 〈오월의 햇살〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-18",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54847&groupno=54847&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 BIBI 1st WORLD TOUR [EVE] IN SEOUL ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54846&groupno=54846&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "리사 오노 내한공연 2025 (대구)",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-18",
+        "등록일": "2025-03-12",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54845&groupno=54845&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "수원시티발레단 뮤지컬발레 '빨간모자'",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54844&groupno=54844&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
