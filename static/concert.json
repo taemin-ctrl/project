@@ -2266,5 +2266,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54854&groupno=54854&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "THE BOYZ ［Unexpected］ SPECIAL STAGE ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54853&groupno=54853&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈라이카〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54852&groupno=54852&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 〈쉬어매드니스〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-14",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54851&groupno=54851&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 김창옥 토크콘서트 시즌 5 - 부산",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-18",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54850&groupno=54850&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
