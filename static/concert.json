@@ -2338,5 +2338,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54856&groupno=54856&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈하트셉수트〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54860&groupno=54860&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 베스트셀러 뮤지컬 〈커다란방귀〉 - 대구",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54859&groupno=54859&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
