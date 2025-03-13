@@ -2365,5 +2365,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54861&groupno=54861&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025김현철&윤상&이현우 전국투어 콘서트 〈A Breeze of memory〉 in 서울",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54863&groupno=54863&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 청주",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-13",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54862&groupno=54862&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
