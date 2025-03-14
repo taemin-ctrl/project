@@ -2545,5 +2545,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54880&groupno=54880&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "충북도립극단 〈한 여름밤의 템페스트〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54885&groupno=54885&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
