@@ -2572,5 +2572,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54881&groupno=54881&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 변진섭 전국투어 콘서트 : 변천사 시즌 2 - 춘천",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54889&groupno=54889&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 〈한 여름밤의 템페스트〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54885&groupno=54885&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 라이브가족뮤지컬 〈인어공주〉 - 대전",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54882&groupno=54882&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
