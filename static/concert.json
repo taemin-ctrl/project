@@ -2599,5 +2599,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54882&groupno=54882&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 유브이 쇼 in 유브이 텔 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54888&groupno=54888&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "크레이티브 허브 모임 〈환상가족 3.0〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54886&groupno=54886&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
