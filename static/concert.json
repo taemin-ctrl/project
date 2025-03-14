@@ -2446,5 +2446,50 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54865&groupno=54865&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 부천",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54874&groupno=54874&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 고양",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54873&groupno=54873&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 유키 구라모토 콘서트 Peacefully-진주",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54872&groupno=54872&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 유키 구라모토 콘서트 Peacefully-원주",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54871&groupno=54871&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 유키 구라모토 콘서트 Peacefully-여수",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-17",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54865&groupno=54865&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
