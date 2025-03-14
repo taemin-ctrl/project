@@ -2536,5 +2536,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54875&groupno=54875&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 〈세일즈맨의 죽음〉 - 의정부",
+        "구분": "연극",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-14",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54880&groupno=54880&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
