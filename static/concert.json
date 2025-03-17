@@ -2689,5 +2689,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54891&groupno=54891&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "NELL’S SEASON 2025 ‘Acoustic Concert 〈Still Sunset〉’",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-17",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54901&groupno=54901&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
