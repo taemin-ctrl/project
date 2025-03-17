@@ -2851,5 +2851,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54917&groupno=54917&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "Another Nice Day #48 - 공원, 유령서점 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-19",
+        "등록일": "2025-03-17",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54915&groupno=54915&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 진주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-17",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54914&groupno=54914&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
