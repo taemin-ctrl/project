@@ -3193,5 +3193,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54585&groupno=54585&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 신구·박근형의 〈고도를 기다리며〉 THE FINAL",
+        "구분": "연극",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54936&groupno=54936&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 이승철 콘서트 〈오케스트락2〉 대구공연",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54935&groupno=54935&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
