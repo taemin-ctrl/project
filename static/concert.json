@@ -2977,5 +2977,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54932&groupno=54932&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "이은결 〈TRACK〉 - 대구",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-18",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54931&groupno=54931&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "이은결 〈TRACK〉 - 제주",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-18",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54930&groupno=54930&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈조선 이야기꾼 전기수〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-18",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54927&groupno=54927&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 헝키쇼 (HUNKY SHOW)",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-17",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54916&groupno=54916&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
