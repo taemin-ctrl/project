@@ -2869,5 +2869,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54914&groupno=54914&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "박창근 장르 with 오케스트라 전국투어 콘서트 - 대전",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-18",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54919&groupno=54919&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 베스트셀러 뮤지컬〈커다란방귀〉-광주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-17",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54918&groupno=54918&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
