@@ -3247,5 +3247,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54937&groupno=54937&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 윤종신 전국투어 콘서트 '그때' - 대전",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54943&groupno=54943&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 김창옥 토크콘서트 시즌 5 - 김해",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54942&groupno=54942&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "ACI 키즈 콘서트 〈클랩 그림책 콘서트〉",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-20",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54941&groupno=54941&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
