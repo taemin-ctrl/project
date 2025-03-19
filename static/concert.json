@@ -3301,5 +3301,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54947&groupno=54947&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "［장애인 선예매］ 생추어리 시티 Sanctuary City",
+        "구분": "연극",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54950&groupno=54950&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "생추어리 시티 Sanctuary City",
+        "구분": "연극",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54949&groupno=54949&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "어린이 서커스 마술쇼-대구",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54948&groupno=54948&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
