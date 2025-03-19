@@ -3211,5 +3211,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54935&groupno=54935&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 전주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54940&groupno=54940&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 대전",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54939&groupno=54939&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 현역가왕2 전국투어 콘서트 - 안양",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54938&groupno=54938&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈구텐버그〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54937&groupno=54937&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
