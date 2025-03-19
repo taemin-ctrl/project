@@ -3292,5 +3292,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54945&groupno=54945&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 갈라 콘서트 〈브로드웨이 in 구로〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54947&groupno=54947&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
