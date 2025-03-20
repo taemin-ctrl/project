@@ -3346,5 +3346,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54952&groupno=54952&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "찰리아저씨의 마술공장",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54961&groupno=54961&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "MBN 2025 코리아 트롯 페스티벌",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54954&groupno=54954&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈하차거부〉",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-19",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54953&groupno=54953&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
