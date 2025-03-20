@@ -3436,5 +3436,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54955&groupno=54955&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈이솝이야기〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54966&groupno=54966&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 〈우리 노래방 가서... 얘기 좀 할까？〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54965&groupno=54965&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 〈세실풍류〉 독각(獨覺) 그리고 득무(得舞) ",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-21",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54964&groupno=54964&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
