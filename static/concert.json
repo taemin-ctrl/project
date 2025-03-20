@@ -3373,5 +3373,68 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54953&groupno=54953&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 김태리 팬미팅 〈We Tell〉",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54962&groupno=54962&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "피아노 배틀 - 대구",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54960&groupno=54960&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "피아노 배틀 - 대전",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54959&groupno=54959&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "조항조 전국투어 콘서트 : 생각 - 광주",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54958&groupno=54958&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "한지호 피아노 리사이틀 〈어린왕자〉",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54957&groupno=54957&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "테너 존노 리사이틀 〈기도〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54956&groupno=54956&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬〈명성황후〉 30주년 기념 공연 - 전주",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-20",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54955&groupno=54955&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
