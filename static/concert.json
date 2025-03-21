@@ -3643,5 +3643,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54987&groupno=54987&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 뮤지컬 〈여신님이 보고 계셔〉 - 광주",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54989&groupno=54989&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
