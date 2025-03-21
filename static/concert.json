@@ -3625,5 +3625,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54984&groupno=54984&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025김현철&윤상&이현우 전국투어 콘서트_〈A Breeze of memory〉 in 부산 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54988&groupno=54988&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "수원시립공연단 가족 뮤지컬 〈신데룰라 이야기〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54987&groupno=54987&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
