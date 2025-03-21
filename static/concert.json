@@ -3580,5 +3580,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54983&groupno=54983&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "연극 〈나생문〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54982&groupno=54982&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈6시 퇴근〉",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54981&groupno=54981&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "진격의 거인 오피셜 콘서트 - Beyond the Walls World Tour - ",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54980&groupno=54980&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
