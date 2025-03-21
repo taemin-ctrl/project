@@ -3472,5 +3472,77 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54968&groupno=54968&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "김정민 전국투어 콘서트：LIVE STAR - 원주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54976&groupno=54976&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 원주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54975&groupno=54975&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "더 팬 드라마 OST 콘서트 WITH 미라클라스",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54974&groupno=54974&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈연남동 빙굴빙굴 빨래방〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54973&groupno=54973&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈어서 오세요, 휴남동 서점입니다〉 ",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54972&groupno=54972&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤직드라마 〈불편한 편의점〉 - 올웨이즈씨어터 ",
+        "구분": "연극",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54971&groupno=54971&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "음악극 〈노베첸토〉",
+        "구분": "연극",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54970&groupno=54970&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "앙코르 : 리베란테 진원과 노현우의 클래식 듀오콘서트",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54969&groupno=54969&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
