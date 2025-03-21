@@ -3607,5 +3607,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54980&groupno=54980&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 연극 〈친정엄마와2박3일〉 - 인천",
+        "구분": "연극",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54985&groupno=54985&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "［안산］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-25",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54984&groupno=54984&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
