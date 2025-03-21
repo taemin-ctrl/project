@@ -3571,5 +3571,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54977&groupno=54977&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "윤종신 전국투어 콘서트 ‘그때’ - 광주",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-24",
+        "등록일": "2025-03-21",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54983&groupno=54983&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
