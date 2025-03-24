@@ -3742,5 +3742,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=54998&groupno=54998&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 대구",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-24",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55002&groupno=55002&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 천안",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-24",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55001&groupno=55001&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 부산",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-24",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55000&groupno=55000&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
