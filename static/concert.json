@@ -3868,5 +3868,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55010&groupno=55010&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "〈미스터트롯3〉 전국투어 콘서트 - 인천 ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-26",
+        "등록일": "2025-03-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55018&groupno=55018&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "연극 〈킬링시저〉",
+        "구분": "콘서트",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55015&groupno=55015&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
