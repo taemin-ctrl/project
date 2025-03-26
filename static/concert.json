@@ -3958,5 +3958,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55024&groupno=55024&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "그리스 로마 신화 〈신들의 왕 제우스〉 - 용산",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55030&groupno=55030&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "최현우 19+I - 대전",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55029&groupno=55029&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "옥주현 with Friends 뮤지컬 콘서트 - 춘천",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55026&groupno=55026&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "영등포아트홀 기획공연 [ 작은 할머니 ]",
+        "구분": "연극",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55025&groupno=55025&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
