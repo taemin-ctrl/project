@@ -3913,5 +3913,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55019&groupno=55019&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 베스트셀러 뮤지컬〈콧구멍을 후비면〉-대구",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55022&groupno=55022&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "［2025 발레축제］ conneXion, 최태지X문훈숙",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-25",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55021&groupno=55021&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "그리스 로마 신화 〈신들의 왕 제우스〉 - 구로",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-24",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55020&groupno=55020&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
