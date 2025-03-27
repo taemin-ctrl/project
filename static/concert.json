@@ -4021,5 +4021,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55033&groupno=55033&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "［2025 발레축제］ 코펠리아",
+        "구분": "사이트공지",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55037&groupno=55037&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "클라우스 메켈레 ＆ 파리 오케스트라",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55036&groupno=55036&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "MIKA NAKASHIMA ASIA TOUR 2025 in SEOUL ",
+        "구분": "콘서트",
+        "예매날짜": "2025-03-27",
+        "등록일": "2025-03-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55035&groupno=55035&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
