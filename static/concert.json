@@ -4165,5 +4165,41 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55049&groupno=55049&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "이은결 〈TRACK〉 - 용인",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55055&groupno=55055&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "뮤지컬 〈명성황후〉 30주년 기념 공연 - 청주",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55054&groupno=55054&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "［2025 발레축제］ 라이프 오브 발레리노 - Dreamer",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55053&groupno=55053&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55052&groupno=55052&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
