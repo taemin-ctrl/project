@@ -4093,5 +4093,59 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55039&groupno=55039&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 부산",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55048&groupno=55048&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 뮤지컬 〈종의 기원〉 콘서트",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-26",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55047&groupno=55047&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 푸에르자 부르타 〈아벤〉 - 서울",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-04-01",
+        "등록일": "2025-03-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55046&groupno=55046&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 성남",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55045&groupno=55045&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "아디오스 피아졸라, 라이브 탱고 - 대전",
+        "구분": "클래식/무용",
+        "예매날짜": "2025-04-03",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55044&groupno=55044&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "아디오스 피아졸라, 라이브 탱고 - 서울",
+        "구분": "콘서트",
+        "예매날짜": "2025-04-03",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55043&groupno=55043&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
