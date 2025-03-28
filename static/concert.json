@@ -4147,5 +4147,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55043&groupno=55043&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 용인",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55051&groupno=55051&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "［2025 발레축제］ Shining Wave",
+        "구분": "아동/가족",
+        "예매날짜": "2025-03-28",
+        "등록일": "2025-03-27",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55049&groupno=55049&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
