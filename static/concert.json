@@ -4201,5 +4201,32 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55052&groupno=55052&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "김호영×김소현×손준호 뮤지컬 갈라 콘서트 - 전주",
+        "구분": "콘서트",
+        "예매날짜": "2025-04-03",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55059&groupno=55059&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "조항조 전국투어 콘서트 : 생각 - 구미",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55058&groupno=55058&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "2025 조관우 MUSIC_서울",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-04-02",
+        "등록일": "2025-03-28",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55057&groupno=55057&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
