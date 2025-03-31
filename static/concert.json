@@ -4291,5 +4291,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55067&groupno=55067&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "WEDNESDAY CAMPANELLA Live in Seoul 2025",
+        "구분": "콘서트",
+        "예매날짜": "2025-04-03",
+        "등록일": "2025-03-31",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55066&groupno=55066&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
