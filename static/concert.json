@@ -4300,5 +4300,14 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55066&groupno=55066&seq=0&KindOfGoods=TICKET",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "2025 영탁 팬콘 ‘YOUNGONE PARK’ ",
+        "구분": "콘서트",
+        "예매날짜": "2025-04-11",
+        "등록일": "2025-03-31",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55068&groupno=55068&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
     }
 ]
