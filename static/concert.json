@@ -4318,5 +4318,23 @@
         "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55072&groupno=55072&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
         "checked": false,
         "active": false
+    },
+    {
+        "이름": "뮤지컬 〈팬텀〉 10주년 기념 공연",
+        "구분": "뮤지컬",
+        "예매날짜": "2025-04-08",
+        "등록일": "2025-04-01",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55074&groupno=55074&seq=0&KindOfGoods=TICKET&Genre=&sort=WriteDate",
+        "checked": false,
+        "active": false
+    },
+    {
+        "이름": "가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 광주",
+        "구분": "아동/가족",
+        "예매날짜": "2025-04-07",
+        "등록일": "2025-04-01",
+        "링크": "https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&pageno=1&stext=&no=55073&groupno=55073&seq=0&KindOfGoods=TICKET",
+        "checked": false,
+        "active": false
     }
 ]
